@@ -38,9 +38,6 @@ This project implements a **smart irrigation system** using an **ESP32 microcont
 
 ## 🔌 Circuit Diagram
 
-
-## 🔌 Circuit Diagram
-
 The following diagram shows the wiring between ESP32, soil moisture sensor, relay, and water pump:
 
 ![Circuit Diagram](circuit_diagram.png)
@@ -79,7 +76,21 @@ Send email/SMS alerts
 
 Use solar power for eco-friendliness ☀️
 
+
+## 👨‍💻 Developed By
+
+**Md. Junayed Bin Karim**  
+Department of Computer Science & Engineering (CSE)  
+[Daffodil International University](https://daffodilvarsity.edu.bd)  
+📍 Bangladesh  
+
+- 🔗 GitHub: [@Junayed-Bin-Karim](https://github.com/Junayed-Bin-Karim)  
+- 💼 LinkedIn: [Junayed Bin Karim](https://www.linkedin.com/in/junayed-bin-karim-47b755270/)  
+
+
+
 ## 🧾 Code Overview
+
 
 ```cpp
 #define BLYNK_PRINT Serial
@@ -126,8 +137,3 @@ void loop() {
 
 
 
-👨‍💻 Developed By
-Md. Junayed Bin Karim
-Department of CSE, Daffodil International University
-GitHub: @Junayed-Bin-Karim
-LinkedIn: Junayed Bin Karim
