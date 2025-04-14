@@ -41,7 +41,36 @@ This project implements a **smart irrigation system** using an **ESP32 microcont
 
 
 
----
+---📲 Blynk App Configuration
+Create a new project and select ESP32
+
+Add the following widgets:
+
+Gauge (linked to V0) – shows soil moisture
+
+Value Display (linked to V1) – shows pump status
+
+Button (optional) – manual control
+
+Enter your Auth Token in the code
+
+📈 Project Applications
+Home Gardening 🌼
+
+Agricultural Fields 🌾
+
+Smart City Projects 🌆
+
+Water Conservation Projects 💧
+
+📌 Future Enhancements
+Add Temperature & Humidity Sensors
+
+Connect to Google Sheets or Firebase
+
+Send email/SMS alerts
+
+Use solar power for eco-friendliness ☀️
 
 ## 🧾 Code Overview
 
@@ -84,36 +113,11 @@ void loop() {
   Blynk.virtualWrite(V0, moisture); // Send data to Blynk
   delay(2000);
 }
-📲 Blynk App Configuration
-Create a new project and select ESP32
 
-Add the following widgets:
 
-Gauge (linked to V0) – shows soil moisture
 
-Value Display (linked to V1) – shows pump status
 
-Button (optional) – manual control
 
-Enter your Auth Token in the code
-
-📈 Project Applications
-Home Gardening 🌼
-
-Agricultural Fields 🌾
-
-Smart City Projects 🌆
-
-Water Conservation Projects 💧
-
-📌 Future Enhancements
-Add Temperature & Humidity Sensors
-
-Connect to Google Sheets or Firebase
-
-Send email/SMS alerts
-
-Use solar power for eco-friendliness ☀️
 
 👨‍💻 Developed By
 Md. Junayed Bin Karim
