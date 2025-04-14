@@ -1,33 +1,33 @@
-# 🌿 IoT-Based Smart Garden Irrigation System with Real-Time Monitoring Using Blynk App
+#  IoT-Based Smart Garden Irrigation System with Real-Time Monitoring Using Blynk App
 
 This project implements a **smart irrigation system** using an **ESP32 microcontroller**, **soil moisture sensor**, and **Blynk IoT app**. It monitors real-time soil conditions and automatically turns on/off a water pump based on moisture levels. It also allows users to manually control the irrigation system and get live data updates on their smartphones.
 
 ---
 
-## 🧠 Features
+## Features
 
-- 🌱 **Soil Moisture Monitoring**
-- 💧 **Automatic Pump Activation**
-- 📲 **Manual Control via Blynk App**
-- 📊 **Real-Time Sensor Data Monitoring**
-- 🌐 **Wi-Fi Connectivity using ESP32**
-- 🔔 **Remote Notification & Updates**
+- **Soil Moisture Monitoring**
+-  **Automatic Pump Activation**
+-  **Manual Control via Blynk App**
+-  **Real-Time Sensor Data Monitoring**
+-  **Wi-Fi Connectivity using ESP32**
+-  **Remote Notification & Updates**
 
 ---
 
 ## 🔧 Hardware Requirements
 
-- ✅ ESP32 Development Board  
-- ✅ Soil Moisture Sensor  
-- ✅ Relay Module  
-- ✅ Mini Water Pump  
-- ✅ Jumper Wires  
-- ✅ Power Supply  
-- ✅ Breadboard  
+-  ESP32 Development Board  
+-  Soil Moisture Sensor  
+-  Relay Module  
+-  Mini Water Pump  
+- Jumper Wires  
+- Power Supply  
+- Breadboard  
 
 ---
 
-## 📱 Software Requirements
+##  Software Requirements
 
 - Arduino IDE  
 - Blynk IoT App (iOS/Android)  
@@ -36,7 +36,7 @@ This project implements a **smart irrigation system** using an **ESP32 microcont
 
 ---
 
-## 🔌 Circuit Diagram
+##  Circuit Diagram
 
 The following diagram shows the wiring between ESP32, soil moisture sensor, relay, and water pump:
 
@@ -45,7 +45,7 @@ The following diagram shows the wiring between ESP32, soil moisture sensor, rela
 
 ---
 
-📲 Blynk App Configuration
+## Blynk App Configuration
 Create a new project and select ESP32
 
 Add the following widgets:
@@ -58,26 +58,33 @@ Button (optional) – manual control
 
 Enter your Auth Token in the code
 
-📈 Project Applications
-Home Gardening 🌼
 
-Agricultural Fields 🌾
+---
 
-Smart City Projects 🌆
+## Project Applications
 
-Water Conservation Projects 💧
+Home Gardening 
 
-📌 Future Enhancements
+Agricultural Fields 
+
+Smart City Projects 
+
+Water Conservation Projects 
+
+
+---
+
+## Future Enhancements
 Add Temperature & Humidity Sensors
 
 Connect to Google Sheets or Firebase
 
 Send email/SMS alerts
 
-Use solar power for eco-friendliness ☀️
+Use solar power for eco-friendliness 
 
 
-## 👨‍💻 Developed By
+## Developed By
 
 **Md. Junayed Bin Karim**  
 Department of Computer Science & Engineering (CSE)  
@@ -89,7 +96,7 @@ Department of Computer Science & Engineering (CSE)
 
 
 
-## 🧾 Code Overview
+## Code Overview
 
 
 ```cpp
