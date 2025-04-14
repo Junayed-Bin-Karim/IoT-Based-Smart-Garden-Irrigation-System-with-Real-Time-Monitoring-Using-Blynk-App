@@ -88,7 +88,7 @@ Use solar power for eco-friendliness
 
 **Md. Junayed Bin Karim**  
 Department of Computer Science & Engineering (CSE)  
-[Daffodil International University](https://daffodilvarsity.edu.bd)  Bangladesh  
+[Daffodil International University](https://daffodilvarsity.edu.bd) 
 
 - 🔗 GitHub: [@Junayed-Bin-Karim](https://github.com/Junayed-Bin-Karim)  
 - 💼 LinkedIn: [Junayed Bin Karim](https://www.linkedin.com/in/junayed-bin-karim-47b755270/)  
