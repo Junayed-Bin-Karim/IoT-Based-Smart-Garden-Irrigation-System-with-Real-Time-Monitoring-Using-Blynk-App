@@ -131,9 +131,3 @@ void loop() {
   Blynk.virtualWrite(V0, moisture); // Send data to Blynk
   delay(2000);
 }
-
-
-
-
-
-
