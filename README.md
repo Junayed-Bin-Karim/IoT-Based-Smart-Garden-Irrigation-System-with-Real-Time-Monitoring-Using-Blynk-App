@@ -39,9 +39,16 @@ This project implements a **smart irrigation system** using an **ESP32 microcont
 ## 🔌 Circuit Diagram
 
 
+## 🔌 Circuit Diagram
+
+The following diagram shows the wiring between ESP32, soil moisture sensor, relay, and water pump:
+
+![Circuit Diagram](circuit_diagram.png)
 
 
----📲 Blynk App Configuration
+---
+
+📲 Blynk App Configuration
 Create a new project and select ESP32
 
 Add the following widgets:
