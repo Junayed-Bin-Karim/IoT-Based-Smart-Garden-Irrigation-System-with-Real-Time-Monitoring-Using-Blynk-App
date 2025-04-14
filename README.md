@@ -15,7 +15,7 @@ This project implements a **smart irrigation system** using an **ESP32 microcont
 
 ---
 
-## 🔧 Hardware Requirements
+## Hardware Requirements
 
 -  ESP32 Development Board  
 -  Soil Moisture Sensor  
